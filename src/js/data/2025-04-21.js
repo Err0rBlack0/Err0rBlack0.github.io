@@ -52,892 +52,711 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Tokino Sora",
-    img: "sora.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "TSora.png",
+    opts:{
+      branch: ["JP"],
+      generation: ["GJ0"]
     }
   },
   {
     name: "Robocosan",
-    img: "roboco.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
-    }
-  },
-  {
-    name: "AZKi",
-    img: "azki.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "R.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ0"]
     }
   },
   {
     name: "Sakura Miko",
-    img: "miko.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "SM.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ0"]
     }
   },
   {
     name: "Hoshimachi Suisei",
-    img: "suisei.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "HS.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ0"]
     }
   },
   {
-    name: "Yozora Mel",
-    img: "mel.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true,
-      retired: true
-    }
-  },
-  {
-    name: "Aki Rosenthal",
-    img: "aki.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
-    }
-  },
-  {
-    name: "Akai Haato",
-    img: "haato.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    name: "AZKi",
+    img: "A.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ0"]
     }
   },
   {
     name: "Shirakami Fubuki",
-    img: "fubuki.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
-    }
-  },
-  {
-    name: "Hitomi Chris",
-    img: "chris.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true,
-      retired: true
+    img: "SFubuki.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ1", "GAMERS"]
     }
   },
   {
     name: "Natsuiro Matsuri",
-    img: "matsuri.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "NMatsuri.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ1"]
     }
   },
   {
-    name: "Minato Aqua",
-    img: "aqua.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true,
-      retired: true
+    name: "Akai Haato",
+    img: "AH.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ1"]
+    }
+  },
+  {
+    name: "Aki Rosenthal",
+    img: "AkiR.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ1"]
+    }
+  },
+  {
+    name: "Yozora Mel",
+    img: "YM.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ1"],
+      nmember: true
     }
   },
   {
     name: "Murasaki Shion",
-    img: "shion.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "MShion.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ2"]
     }
   },
   {
     name: "Nakiri Ayame",
-    img: "ayame.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "NA.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ2"]
     }
   },
   {
     name: "Yuzuki Choco",
-    img: "choco.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "YC.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ2"]
     }
   },
   {
     name: "Oozora Subaru",
-    img: "subaru.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "OS.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ2"]
+    }
+  },
+  {
+    name: "Minato Aqua",
+    img: "MAqua.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ2"],
+      nmember: true
     }
   },
   {
     name: "Ookami Mio",
-    img: "mio.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "OM.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GAMERS"]
     }
   },
   {
     name: "Nekomata Okayu",
-    img: "okayu.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "NO.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GAMERS"]
     }
   },
   {
     name: "Inugami Korone",
-    img: "korone.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "IK.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GAMERS"]
     }
   },
   {
     name: "Usada Pekora",
-    img: "pekora.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
-    }
-  },
-  {
-    name: "Uruha Rushia",
-    img: "rushia.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true,
-      retired: true
+    img: "UP.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ3"]
     }
   },
   {
     name: "Shiranui Flare",
-    img: "flare.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "SFlare.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ3"]
     }
   },
   {
     name: "Shirogane Noel",
-    img: "noel.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "SNoel.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ3"]
     }
   },
   {
     name: "Houshou Marine",
-    img: "marine.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "HM.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ3"]
+    }
+  },
+  {
+    name: "Uruha Rushia",
+    img: "UR.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ3"],
+      nmember: true
     }
   },
   {
     name: "Amane Kanata",
-    img: "kanata.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "AK.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ4"]
     }
   },
   {
     name: "Tsunomaki Watame",
-    img: "watame.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "TW.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ4"]
     }
   },
   {
     name: "Tokoyami Towa",
-    img: "towa.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "TT.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ4"]
     }
   },
   {
     name: "Himemori Luna",
-    img: "luna.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "HL.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ4"]
     }
   },
   {
     name: "Kiryu Coco",
-    img: "coco.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true,
-      retired: true
+    img: "KC.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ4"],
+      nmember: true
     }
   },
   {
     name: "Yukihana Lamy",
-    img: "lamy.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "YL.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ5"]
     }
   },
   {
     name: "Momosuzu Nene",
-    img: "nene.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "MN.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ5"]
     }
   },
   {
     name: "Shishiro Botan",
-    img: "botan.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "SB.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ5"]
     }
   },
   {
     name: "Omaru Polka",
-    img: "polka.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "OP.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ5"]
     }
   },
   {
-    name: "Mano Aloe",
-    img: "aloe.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true,
-      retired: true
-    }
-  },
-  {
-    name: "La+ Darkness",
-    img: "laplus.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    name: "La+ Darknesss",
+    img: "LD.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ6"]
     }
   },
   {
     name: "Takane Lui",
-    img: "lui.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "TL.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ6"]
     }
   },
   {
     name: "Hakui Koyori",
-    img: "koyori.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
-    }
-  },
-  {
-    name: "Sakamata Chloe",
-    img: "chloe.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "HK.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ6"]
     }
   },
   {
     name: "Kazama Iroha",
-    img: "iroha.webp",
-    opts: {
-      branch: ["jp"],
-      girl: true
+    img: "KI.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ6"]
     }
   },
   {
-    name: "Friend A (A-chan)",
-    img: "achan.webp",
-    opts: {
-      branch: ["staff"],
-      girl: true
-    }
-  },
-  {
-    name: "Harusaki Nodoka",
-    img: "nodoka.webp",
-    opts: {
-      branch: ["staff"],
-      girl: true
-    }
-  },
-  {
-    name: "Ayunda Risu",
-    img: "risu.webp",
-    opts: {
-      branch: ["id"],
-      girl: true
-    }
-  },
-  {
-    name: "Moona Hoshinova",
-    img: "moona.webp",
-    opts: {
-      branch: ["id"],
-      girl: true
-    }
-  },
-  {
-    name: "Airani Iofifteen",
-    img: "iofi.webp",
-    opts: {
-      branch: ["id"],
-      girl: true
-    }
-  },
-  {
-    name: "Kureiji Ollie",
-    img: "ollie.webp",
-    opts: {
-      branch: ["id"],
-      girl: true
-    }
-  },
-  {
-    name: "Anya Melfissa",
-    img: "anya.webp",
-    opts: {
-      branch: ["id"],
-      girl: true
-    }
-  },
-  {
-    name: "Pavolia Reine",
-    img: "reine.webp",
-    opts: {
-      branch: ["id"],
-      girl: true
-    }
-  },
-  {
-    name: "Vestia Zeta",
-    img: "zeta.webp",
-    opts: {
-      branch: ["id"],
-      girl: true
-    }
-  },
-  {
-    name: "Kaela Kovalaskia",
-    img: "kaela.webp",
-    opts: {
-      branch: ["id"],
-      girl: true
-    }
-  },
-  {
-    name: "Kobo Kanaeru",
-    img: "kobo.webp",
-    opts: {
-      branch: ["id"],
-      girl: true
+    name: "Sakamata Chloe",
+    img: "SC.png",
+    opts:
+    {
+      branch: ["JP"],
+      generation: ["GJ6"],
+      nmember: true
     }
   },
   {
     name: "Mori Calliope",
-    img: "calli.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "MC.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE1"]
     }
   },
   {
     name: "Takanashi Kiara",
-    img: "kiara.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "TK.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE1"]
     }
   },
   {
     name: "Ninomae Ina'nis",
-    img: "ina.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "NI.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE1"]
     }
   },
   {
     name: "Gawr Gura",
-    img: "gura.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "GG.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE1"]
     }
   },
   {
     name: "Watson Amelia",
-    img: "ame.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
-    }
-  },
-  {
-    name: "IRyS",
-    img: "irys.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
-    }
-  },
-  {
-    name: "Ceres Fauna",
-    img: "fauna.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "AW.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE1"],
+      nmember: true
     }
   },
   {
     name: "Ouro Kronii",
-    img: "kronii.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
-    }
-  },
-  {
-    name: "Tsukumo Sana",
-    img: "sana.webp",
-    opts: {
-      branch: ["en"],
-      girl: true,
-      retired: true
+    img: "OKronii.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE2"]
     }
   },
   {
     name: "Nanashi Mumei",
-    img: "mumei.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "NMumei.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE2"]
     }
   },
   {
     name: "Hakos Baelz",
-    img: "bae.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "HB.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE2"]
+    }
+  },
+  {
+    name: "Tsukumo Sana",
+    img: "TSana.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE2"],
+      nmember: true
+    }
+  },
+  {
+    name: "Ceres Fauna",
+    img: "CF.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE2"],
+      nmember: true
+    }
+  },
+  {
+    name: "IRyS",
+    img: "I.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE2"]
     }
   },
   {
     name: "Shiori Novella",
-    img: "shiori.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "ShioriN.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE3"]
     }
   },
   {
     name: "Koseki Bijou",
-    img: "bijou.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "KB.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE3"]
     }
   },
   {
-    name: "Nerrisa Ravencroft",
-    img: "nerrisa.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    name: "Nerissa Ravencroft",
+    img: "NR.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE3"]
     }
   },
   {
     name: "Fuwawa Abyssgard",
-    img: "fuwawa.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "FW.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE3"]
     }
   },
   {
     name: "Mococo Abyssgard",
-    img: "mococo.webp",
-    opts: {
-      branch: ["en"],
-      girl: true
-    }
-  },
-  {
-    name: "Yogiri",
-    img: "yogiri.webp",
-    opts: {
-      branch: ["cn"],
-      girl: true,
-      retired: true
-    }
-  },
-  {
-    name: "Civia",
-    img: "civia.webp",
-    opts: {
-      branch: ["cn"],
-      girl: true,
-      retired: true
-    }
-  },
-  {
-    name: "Spade Echo",
-    img: "echo.webp",
-    opts: {
-      branch: ["cn"],
-      girl: true,
-      retired: true
-    }
-  },
-  {
-    name: "Doris",
-    img: "doris.webp",
-    opts: {
-      branch: ["cn"],
-      girl: true,
-      retired: true
-    }
-  },
-  {
-    name: "Rosalyn",
-    img: "rosalyn.webp",
-    opts: {
-      branch: ["cn"],
-      girl: true,
-      retired: true
-    }
-  },
-  {
-    name: "Artia",
-    img: "artia.webp",
-    opts: {
-      branch: ["cn"],
-      girl: true,
-      retired: true
-    }
-  },
-  {
-    name: "Hanasaki Miyabi",
-    img: "miyabi.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Kanade Izuru",
-    img: "izuru.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Arurandeisu",
-    img: "aruran.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Rikka",
-    img: "rikka.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Kagami Kira",
-    img: "kira.webp",
-    opts: {
-      branch: ["st"],
-      boy: true,
-      retired: true
-    }
-  },
-  {
-    name: "Yakushiji Suzaku",
-    img: "suzaku.webp",
-    opts: {
-      branch: ["st"],
-      boy: true,
-      retired: true
-    }
-  },
-  {
-    name: "Astel Leda",
-    img: "astel.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Kishido Temma",
-    img: "temma.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Yukoku Roberu",
-    img: "roberu.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Kageyama Shien",
-    img: "shien.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Aragami Oga",
-    img: "oga.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Tsukishita Kaoru",
-    img: "kaoru.webp",
-    opts: {
-      branch: ["st"],
-      boy: true,
-      retired: true
-    }
-  },
-  {
-    name: "Yatogami Fuma",
-    img: "fuma.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Utsugi Uyu",
-    img: "uyu.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Hizaki Gamma",
-    img: "gamma.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Minase Rio",
-    img: "rio.webp",
-    opts: {
-      branch: ["st"],
-      boy: true
-    }
-  },
-  {
-    name: "Regis Altare",
-    img: "regis.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
-    }
-  },
-  {
-    name: "Magni Dezmond",
-    img: "magni.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true,
-      retired: true
-    }
-  },
-  {
-    name: "Axel Syrios",
-    img: "axel.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
-    }
-  },
-  {
-    name: "Noir Vesper",
-    img: "vesper.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true,
-      retired: true
-    }
-  },
-  {
-    name: "Gavis Bettel",
-    img: "gavis.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
-    }
-  },
-  {
-    name: "Machina X Flayon",
-    img: "machina.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
-    }
-  },
-  {
-    name: "Banzoin Hakka",
-    img: "hakka.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
-    }
-  },
-  {
-    name: "Josuiji Shinri",
-    img: "shinri.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
-    }
-  },
-  {
-    name: "Hiodoshi Ao",
-    img: "ao.webp",
-    opts: {
-      branch: ["devis"],
-      girl: true
-    }
-  },
-  {
-    name: "Otonose Kanade",
-    img: "kanade.webp",
-    opts: {
-      branch: ["devis"],
-      girl: true
-    }
-  },
-  {
-    name: "Ichijou Ririka",
-    img: "ririka.webp",
-    opts: {
-      branch: ["devis"],
-      girl: true
-    }
-  },
-  {
-    name: "Juufuutei Raden",
-    img: "raden.webp",
-    opts: {
-      branch: ["devis"],
-      girl: true
-    }
-  },
-  {
-    name: "Todoroki Hajime",
-    img: "hajime.webp",
-    opts: {
-      branch: ["devis"],
-      girl: true
-    }
-  },
-  {
-    name: "Jurard T Rexford",
-    img: "jurard.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
-    }
-  },
-  {
-    name: "Goldbullet",
-    img: "goldbullet.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
-    }
-  },
-  {
-    name: "Octavio",
-    img: "octavio.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
-    }
-  },
-  {
-    name: "Crimson Ruze",
-    img: "crimson.webp",
-    opts: {
-      branch: ["sten"],
-      boy: true
+    img: "MococoA.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE3"]
     }
   },
   {
     name: "Elizabeth Rose Bloodflame",
-    img: "elizabeth.png",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "ERB.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE4"]
     }
   },
   {
     name: "Gigi Murin",
-    img: "gigi.png",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "GM.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE4"]
     }
   },
   {
     name: "Cecilia Immergreen",
-    img: "cecilia.png",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "CI.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE4"]
     }
   },
   {
     name: "Raora Panthera",
-    img: "raora.png",
-    opts: {
-      branch: ["en"],
-      girl: true
+    img: "RP.png",
+    opts:
+    {
+      branch: ["EN"],
+      generation: ["GE4"]
+    }
+  },
+  {
+    name: "Ayunda Risu",
+    img: "ARisu.png",
+    opts:
+    {
+      branch: ["ID"],
+      generation: ["GI1"]
+    }
+  },
+  {
+    name: "Moona Hoshinova",
+    img: "MH.png",
+    opts:
+    {
+      branch: ["ID"],
+      generation: ["GI1"]
+    }
+  },
+  {
+    name: "Airani Iofifteen",
+    img: "AI.png",
+    opts:
+    {
+      branch: ["ID"],
+      generation: ["GI1"]
+    }
+  },
+  {
+    name: "Kureiji Ollie",
+    img: "KO.png",
+    opts:
+    {
+      branch: ["ID"],
+      generation: ["GI2"]
+    }
+  },
+  {
+    name: "Anya Melfissa",
+    img: "AM.png",
+    opts:
+    {
+      branch: ["ID"],
+      generation: ["GI2"]
+    }
+  },
+  {
+    name: "Pavolia Reine",
+    img: "PR.png",
+    opts:
+    {
+      branch: ["ID"],
+      generation: ["GI2"]
+    }
+  },
+  {
+    name: "Vestia Zeta",
+    img: "VZ.png",
+    opts:
+    {
+      branch: ["ID"],
+      generation: ["GI3"]
+    }
+  },
+  {
+    name: "Kaela Kovalskia",
+    img: "KaelaK.png",
+    opts:
+    {
+      branch: ["ID"],
+      generation: ["GI3"]
+    }
+  },
+  {
+    name: "Kobo Kanaeru",
+    img: "KoboK.png",
+    opts:
+    {
+      branch: ["ID"],
+      generation: ["GI3"]
+    }
+  },
+  {
+    name: "Hideoshi Ao",
+    img: "HA.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["RG"]
+    }
+  },
+  {
+    name: "Otonose Kanade",
+    img: "OKanade.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["RG"]
+    }
+  },
+  {
+    name: "Ichijou Ririka",
+    img: "IRirika.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["RG"]
+    }
+  },
+  {
+    name: "Juufuutei Raden",
+    img: "JR.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["RG"]
+    }
+  },
+  {
+    name: "Todoroki Hajime",
+    img: "TH.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["RG"]
+    }
+  },
+  {
+    name: "Isaki Riona",
+    img: "IRiona.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["FG"]
+    }
+  },
+  {
+    name: "Koganei Niko",
+    img: "KN.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["FG"]
+    }
+  },
+  {
+    name: "Mizumiya Su",
+    img: "MS.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["FG"]
+    }
+  },
+  {
+    name: "Rindo Chihaya",
+    img: "RC.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["FG"]
+    }
+  },
+  {
+    name: "Kikirara Vivi",
+    img: "KV.png",
+    opts:
+    {
+      branch: ["DI"],
+      generation: ["FG"]
+    }
+  },
+  {
+    name: "A-Chan",
+    img: "AC.png",
+    opts:
+    {
+      branch: ["staff"],
+      generation: ["AN"]
+    }
+  },
+  {
+    name: "Harusaki Nodoka",
+    img: "HN.png",
+    opts:
+    {
+      branch: ["staff"],
+      generation: ["AN"]
     }
   },
 ]
