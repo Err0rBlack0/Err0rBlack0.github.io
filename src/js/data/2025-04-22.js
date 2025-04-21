@@ -17,7 +17,7 @@ dataSet[dataSetVersion].options = [
   },
   {
     name: "Filter by Generation",
-    key: "gen",
+    key: "generation",
     tooltip: "Check this to restrict to members from certain generations.",
     checked: false,
     sub: [
