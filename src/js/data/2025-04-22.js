@@ -814,7 +814,7 @@ dataSet[dataSetVersion].characterData = [
     img: "AC.png",
     opts:
     {
-      branch: ["staff"],
+      branch: ["Staff"],
       generation: ["AN"],
       nmember: true
     }
@@ -824,7 +824,7 @@ dataSet[dataSetVersion].characterData = [
     img: "HN.png",
     opts:
     {
-      branch: ["staff"],
+      branch: ["Staff"],
       generation: ["AN"],
       nmember: false
     }
