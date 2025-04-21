@@ -55,7 +55,8 @@ dataSet[dataSetVersion].characterData = [
     img: "TSora.png",
     opts:{
       branch: ["JP"],
-      generation: ["GJ0"]
+      generation: ["GJ0"],
+      nmember: false
     }
   },
   {
@@ -64,7 +65,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ0"]
+      generation: ["GJ0"],
+      nmember: false
     }
   },
   {
@@ -73,7 +75,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ0"]
+      generation: ["GJ0"],
+      nmember: false
     }
   },
   {
@@ -82,7 +85,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ0"]
+      generation: ["GJ0"],
+      nmember: false
     }
   },
   {
@@ -91,7 +95,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ0"]
+      generation: ["GJ0"],
+      nmember: false
     }
   },
   {
@@ -100,7 +105,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ1", "GAMERS"]
+      generation: ["GJ1", "GAMERS"],
+      nmember: false
     }
   },
   {
@@ -109,7 +115,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ1"]
+      generation: ["GJ1"],
+      nmember: false
     }
   },
   {
@@ -118,7 +125,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ1"]
+      generation: ["GJ1"],
+      nmember: false
     }
   },
   {
@@ -127,7 +135,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ1"]
+      generation: ["GJ1"],
+      nmember: false
     }
   },
   {
@@ -146,7 +155,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ2"]
+      generation: ["GJ2"],
+      nmember: false
     }
   },
   {
@@ -155,7 +165,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ2"]
+      generation: ["GJ2"],
+      nmember: false
     }
   },
   {
@@ -164,7 +175,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ2"]
+      generation: ["GJ2"],
+      nmember: false
     }
   },
   {
@@ -173,7 +185,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ2"]
+      generation: ["GJ2"],
+      nmember: false
     }
   },
   {
@@ -192,7 +205,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GAMERS"]
+      generation: ["GAMERS"],
+      nmember: false
     }
   },
   {
@@ -201,7 +215,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GAMERS"]
+      generation: ["GAMERS"],
+      nmember: false
     }
   },
   {
@@ -210,7 +225,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GAMERS"]
+      generation: ["GAMERS"],
+      nmember: false
     }
   },
   {
@@ -219,7 +235,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ3"]
+      generation: ["GJ3"],
+      nmember: false
     }
   },
   {
@@ -228,7 +245,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ3"]
+      generation: ["GJ3"],
+      nmember: false
     }
   },
   {
@@ -237,7 +255,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ3"]
+      generation: ["GJ3"],
+      nmember: false
     }
   },
   {
@@ -246,7 +265,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ3"]
+      generation: ["GJ3"],
+      nmember: false
     }
   },
   {
@@ -265,7 +285,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ4"]
+      generation: ["GJ4"],
+      nmember: false
     }
   },
   {
@@ -274,7 +295,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ4"]
+      generation: ["GJ4"],
+      nmember: false
     }
   },
   {
@@ -283,7 +305,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ4"]
+      generation: ["GJ4"],
+      nmember: false
     }
   },
   {
@@ -292,7 +315,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ4"]
+      generation: ["GJ4"],
+      nmember: false
     }
   },
   {
@@ -311,7 +335,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ5"]
+      generation: ["GJ5"],
+      nmember: false
     }
   },
   {
@@ -320,7 +345,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ5"]
+      generation: ["GJ5"],
+      nmember: false
     }
   },
   {
@@ -329,7 +355,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ5"]
+      generation: ["GJ5"],
+      nmember: false
     }
   },
   {
@@ -338,7 +365,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ5"]
+      generation: ["GJ5"],
+      nmember: false
     }
   },
   {
@@ -347,7 +375,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ6"]
+      generation: ["GJ6"],
+      nmember: false
     }
   },
   {
@@ -356,7 +385,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ6"]
+      generation: ["GJ6"],
+      nmember: false
     }
   },
   {
@@ -365,7 +395,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ6"]
+      generation: ["GJ6"],
+      nmember: false
     }
   },
   {
@@ -374,7 +405,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["JP"],
-      generation: ["GJ6"]
+      generation: ["GJ6"],
+      nmember: false
     }
   },
   {
@@ -393,7 +425,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE1"]
+      generation: ["GE1"],
+      nmember: false
     }
   },
   {
@@ -402,7 +435,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE1"]
+      generation: ["GE1"],
+      nmember: false
     }
   },
   {
@@ -411,7 +445,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE1"]
+      generation: ["GE1"],
+      nmember: false
     }
   },
   {
@@ -420,7 +455,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE1"]
+      generation: ["GE1"],
+      nmember: false
     }
   },
   {
@@ -439,7 +475,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE2"]
+      generation: ["GE2"],
+      nmember: false
     }
   },
   {
@@ -448,7 +485,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE2"]
+      generation: ["GE2"],
+      nmember: false
     }
   },
   {
@@ -457,7 +495,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE2"]
+      generation: ["GE2"],
+      nmember: false
     }
   },
   {
@@ -486,7 +525,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE2"]
+      generation: ["GE2"],
+      nmember: false
     }
   },
   {
@@ -495,7 +535,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE3"]
+      generation: ["GE3"],
+      nmember: false
     }
   },
   {
@@ -504,7 +545,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE3"]
+      generation: ["GE3"],
+      nmember: false
     }
   },
   {
@@ -513,7 +555,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE3"]
+      generation: ["GE3"],
+      nmember: false
     }
   },
   {
@@ -522,7 +565,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE3"]
+      generation: ["GE3"],
+      nmember: false
     }
   },
   {
@@ -531,7 +575,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE3"]
+      generation: ["GE3"],
+      nmember: false
     }
   },
   {
@@ -540,7 +585,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE4"]
+      generation: ["GE4"],
+      nmember: false
     }
   },
   {
@@ -549,7 +595,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE4"]
+      generation: ["GE4"],
+      nmember: false
     }
   },
   {
@@ -558,7 +605,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE4"]
+      generation: ["GE4"],
+      nmember: false
     }
   },
   {
@@ -567,7 +615,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["EN"],
-      generation: ["GE4"]
+      generation: ["GE4"],
+      nmember: false
     }
   },
   {
@@ -576,7 +625,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["ID"],
-      generation: ["GI1"]
+      generation: ["GI1"],
+      nmember: false
     }
   },
   {
@@ -585,7 +635,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["ID"],
-      generation: ["GI1"]
+      generation: ["GI1"],
+      nmember: false
     }
   },
   {
@@ -594,7 +645,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["ID"],
-      generation: ["GI1"]
+      generation: ["GI1"],
+      nmember: false
     }
   },
   {
@@ -603,7 +655,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["ID"],
-      generation: ["GI2"]
+      generation: ["GI2"],
+      nmember: false
     }
   },
   {
@@ -612,7 +665,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["ID"],
-      generation: ["GI2"]
+      generation: ["GI2"],
+      nmember: false
     }
   },
   {
@@ -621,7 +675,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["ID"],
-      generation: ["GI2"]
+      generation: ["GI2"],
+      nmember: false
     }
   },
   {
@@ -630,7 +685,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["ID"],
-      generation: ["GI3"]
+      generation: ["GI3"],
+      nmember: false
     }
   },
   {
@@ -639,7 +695,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["ID"],
-      generation: ["GI3"]
+      generation: ["GI3"],
+      nmember: false
     }
   },
   {
@@ -648,7 +705,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["ID"],
-      generation: ["GI3"]
+      generation: ["GI3"],
+      nmember: false
     }
   },
   {
@@ -657,7 +715,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["RG"]
+      generation: ["RG"],
+      nmember: false
     }
   },
   {
@@ -666,7 +725,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["RG"]
+      generation: ["RG"],
+      nmember: false
     }
   },
   {
@@ -675,7 +735,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["RG"]
+      generation: ["RG"],
+      nmember: false
     }
   },
   {
@@ -684,7 +745,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["RG"]
+      generation: ["RG"],
+      nmember: false
     }
   },
   {
@@ -693,7 +755,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["RG"]
+      generation: ["RG"],
+      nmember: false
     }
   },
   {
@@ -702,7 +765,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["FG"]
+      generation: ["FG"],
+      nmember: false
     }
   },
   {
@@ -711,7 +775,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["FG"]
+      generation: ["FG"],
+      nmember: false
     }
   },
   {
@@ -720,7 +785,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["FG"]
+      generation: ["FG"],
+      nmember: false
     }
   },
   {
@@ -729,7 +795,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["FG"]
+      generation: ["FG"],
+      nmember: false
     }
   },
   {
@@ -738,7 +805,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["DI"],
-      generation: ["FG"]
+      generation: ["FG"],
+      nmember: false
     }
   },
   {
@@ -747,7 +815,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["staff"],
-      generation: ["AN"]
+      generation: ["AN"],
+      nmember: true
     }
   },
   {
@@ -756,7 +825,8 @@ dataSet[dataSetVersion].characterData = [
     opts:
     {
       branch: ["staff"],
-      generation: ["AN"]
+      generation: ["AN"],
+      nmember: false
     }
   },
-]
+],
