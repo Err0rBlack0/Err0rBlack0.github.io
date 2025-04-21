@@ -3,38 +3,23 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by branch",
+    name: "Filter by Branch",
     key: "branch",
     tooltip: "Check this to restrict to members from certain branches.",
     checked: false,
     sub: [
-      { name: "hololive", key: "jp" },
-      { name: "hololive Staff", key: "staff" },
-      { name: "hololive China", key: "cn" },
-      { name: "hololive Indonesia", key: "id" },
-      { name: "hololive English", key: "en" },
-      { name: "hololive DEV_IS", key: "devis" },
-      { name: "HOLOSTARS", key: "st" },
-      { name: "HOLOSTARS English", key: "sten" },
+      { name: "Hololive", key: "JP" },
+      { name: "Hololive English", key: "EN" },
+      { name: "Hololive Indonesia", key: "ID" },
+      { name: "Hololive DEV_IS", key: "DI" },
+      { name: "Hololive Staff", key: "Staff" },
     ]
   },
   {
-    name: "Exclude HOLOSTARS",
-    key: "boy",
-    tooltip: "Check this to exclude HOLOSTARS members.",
-    checked: false
-  },
-  {
-    name: "Exclude hololive",
-    key: "girl",
-    tooltip: "Check this to exclude hololive members.",
-    checked: false
-  },
-  {
-    name: "Exclude retired members",
-    key: "retired",
+    name: "Exclude No Active Members",
+    key: "nmember",
     tooltip: "Check this to excluded graduated/retired/terminated members.",
-    checked: true
+    checked: false
   }
 ];
 
