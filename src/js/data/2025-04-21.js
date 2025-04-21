@@ -16,6 +16,32 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
+    name: "Filter by Generation",
+    key: "gen",
+    tooltip: "Check this to restrict to members from certain generations.",
+    checked: false,
+    sub: [
+      { name: "Hololive 0th Gen", key: "GJ0" },
+      { name: "Hololive 1st Gen", key: "GJ1" },
+      { name: "Hololive 2nd Gen", key: "GJ2" },
+      { name: "Hololive GAMERS", key: "GAMERS" },
+      { name: "HoloFantasy (3rd Gen)", key: "GJ3" },
+      { name: "HoloForce (4th Gen)", key: "GJ4" },
+      { name: "NePoLaBo (5th Gen)", key: "GJ5" },
+      { name: "HoloX (6th Gen)", key: "GJ6" },
+      { name: "AREA 15 (ID 1st Gen)", key: "GI1" },
+      { name: "HoLoro (ID 2nd Gen)", key: "GI2" },
+      { name: "HoloH3ro (ID 3rd Gen)", key: "GI3" },
+      { name: "HoloMyth (EN 1st Gen)", key: "EN1" },
+      { name: "Council & IRyS (EN 2nd Gen)", key: "EN2" },
+      { name: "HoloAdvent (EN 3rd Gen)", key: "EN3" },
+      { name: "HoloJustice (EN 4th Gen)", key: "EN4" },
+      { name: "ReGLOSS", key: "RG" },
+      { name: "FLOW GLOW", key: "FG" },
+      { name: "A-chan & Nodoka", key: "AN" },
+    ]
+  },
+  {
     name: "Exclude No Active Members",
     key: "nmember",
     tooltip: "Check this to excluded graduated/retired/terminated members.",
