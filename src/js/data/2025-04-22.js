@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Inugami Korone",
-    img: "IK.png",
+    img: "IG.png",
     opts:
     {
       branch: ["JP"],
@@ -781,7 +781,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mizumiya Su",
-    img: "MS.png",
+    img: "MSu.png",
     opts:
     {
       branch: ["DI"],
