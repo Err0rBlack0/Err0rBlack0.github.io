@@ -52,7 +52,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Tokino Sora",
-    img: "Sora.webp",
+    img: "SORA.webp",
     opts:{
       branch: ["JP"],
       generation: ["GJ0"],
@@ -61,7 +61,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Robocosan",
-    img: "R.png",
+    img: "ROBOCO.webp",
     opts:
     {
       branch: ["JP"],
@@ -71,7 +71,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sakura Miko",
-    img: "SM.png",
+    img: "MIKO.webp",
     opts:
     {
       branch: ["JP"],
@@ -81,7 +81,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hoshimachi Suisei",
-    img: "HS.png",
+    img: "SUISEI",
     opts:
     {
       branch: ["JP"],
@@ -91,7 +91,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "AZKi",
-    img: "A.png",
+    img: "AZKI.webp",
     opts:
     {
       branch: ["JP"],
@@ -101,7 +101,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shirakami Fubuki",
-    img: "SFubuki.png",
+    img: "FUBUKI.webp",
     opts:
     {
       branch: ["JP"],
@@ -111,7 +111,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Natsuiro Matsuri",
-    img: "NMatsuri.png",
+    img: "MATSURI.webp",
     opts:
     {
       branch: ["JP"],
@@ -121,7 +121,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Akai Haato",
-    img: "AH.png",
+    img: "HAATO.webp",
     opts:
     {
       branch: ["JP"],
@@ -131,7 +131,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Aki Rosenthal",
-    img: "AkiR.png",
+    img: "AKI.webp",
     opts:
     {
       branch: ["JP"],
@@ -141,7 +141,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yozora Mel",
-    img: "YM.png",
+    img: "MEL.webp",
     opts:
     {
       branch: ["JP"],
@@ -151,7 +151,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Murasaki Shion",
-    img: "MShion.png",
+    img: "SHION.webp",
     opts:
     {
       branch: ["JP"],
@@ -161,7 +161,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nakiri Ayame",
-    img: "NA.png",
+    img: "AYAME.webp",
     opts:
     {
       branch: ["JP"],
@@ -171,7 +171,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yuzuki Choco",
-    img: "YC.png",
+    img: "CHOCO.webp",
     opts:
     {
       branch: ["JP"],
@@ -181,7 +181,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Oozora Subaru",
-    img: "OS.png",
+    img: "SUBARU.webp",
     opts:
     {
       branch: ["JP"],
@@ -191,7 +191,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Minato Aqua",
-    img: "MAqua.png",
+    img: "AQUA.webp",
     opts:
     {
       branch: ["JP"],
@@ -201,7 +201,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ookami Mio",
-    img: "OM.png",
+    img: "MIO.webp",
     opts:
     {
       branch: ["JP"],
@@ -211,7 +211,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nekomata Okayu",
-    img: "NO.png",
+    img: "OKAYU.webp",
     opts:
     {
       branch: ["JP"],
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Inugami Korone",
-    img: "IG.png",
+    img: "KORONE.webp",
     opts:
     {
       branch: ["JP"],
@@ -231,7 +231,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Usada Pekora",
-    img: "UP.png",
+    img: "PEKORA.webp",
     opts:
     {
       branch: ["JP"],
@@ -241,7 +241,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shiranui Flare",
-    img: "SFlare.png",
+    img: "FLARE.webp",
     opts:
     {
       branch: ["JP"],
@@ -251,7 +251,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shirogane Noel",
-    img: "SNoel.png",
+    img: "NOEL.webp",
     opts:
     {
       branch: ["JP"],
@@ -261,7 +261,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Houshou Marine",
-    img: "HM.png",
+    img: "MARINE.webp",
     opts:
     {
       branch: ["JP"],
@@ -271,7 +271,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Uruha Rushia",
-    img: "UR.png",
+    img: "RUSHIA.webp",
     opts:
     {
       branch: ["JP"],
@@ -281,7 +281,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Amane Kanata",
-    img: "AK.png",
+    img: "KANATA.webp",
     opts:
     {
       branch: ["JP"],
@@ -291,7 +291,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tsunomaki Watame",
-    img: "TW.png",
+    img: "WATAME.webp",
     opts:
     {
       branch: ["JP"],
@@ -301,7 +301,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tokoyami Towa",
-    img: "TT.png",
+    img: "TOWA.webp",
     opts:
     {
       branch: ["JP"],
@@ -311,7 +311,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Himemori Luna",
-    img: "HL.png",
+    img: "LUNA.webp",
     opts:
     {
       branch: ["JP"],
@@ -321,7 +321,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kiryu Coco",
-    img: "KC.png",
+    img: "COCO.webp",
     opts:
     {
       branch: ["JP"],
@@ -331,7 +331,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yukihana Lamy",
-    img: "YL.png",
+    img: "LAMY.webp",
     opts:
     {
       branch: ["JP"],
@@ -341,7 +341,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Momosuzu Nene",
-    img: "MN.png",
+    img: "NENE.webp",
     opts:
     {
       branch: ["JP"],
@@ -351,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shishiro Botan",
-    img: "SB.png",
+    img: "BOTAN.webp",
     opts:
     {
       branch: ["JP"],
@@ -361,7 +361,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omaru Polka",
-    img: "OP.png",
+    img: "POLKA.webp",
     opts:
     {
       branch: ["JP"],
@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "La+ Darknesss",
-    img: "LD.png",
+    img: "LAPLUS.webp",
     opts:
     {
       branch: ["JP"],
@@ -381,7 +381,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Takane Lui",
-    img: "TL.png",
+    img: "LUI.webp",
     opts:
     {
       branch: ["JP"],
@@ -391,7 +391,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hakui Koyori",
-    img: "HK.png",
+    img: "KOYORI.webp",
     opts:
     {
       branch: ["JP"],
@@ -401,7 +401,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kazama Iroha",
-    img: "KI.png",
+    img: "IROHA.webp",
     opts:
     {
       branch: ["JP"],
@@ -411,7 +411,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sakamata Chloe",
-    img: "SC.png",
+    img: "CHLOE.webp",
     opts:
     {
       branch: ["JP"],
@@ -421,7 +421,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mori Calliope",
-    img: "MC.png",
+    img: "CALLIOPE.webp",
     opts:
     {
       branch: ["EN"],
@@ -431,7 +431,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Takanashi Kiara",
-    img: "TK.png",
+    img: "KIARA.webp",
     opts:
     {
       branch: ["EN"],
@@ -441,7 +441,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ninomae Ina'nis",
-    img: "NI.png",
+    img: "INA.webp",
     opts:
     {
       branch: ["EN"],
@@ -451,7 +451,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gawr Gura",
-    img: "GG.png",
+    img: "GURA.webp",
     opts:
     {
       branch: ["EN"],
@@ -461,7 +461,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Watson Amelia",
-    img: "AW.png",
+    img: "AMELIA.webp",
     opts:
     {
       branch: ["EN"],
@@ -471,7 +471,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ouro Kronii",
-    img: "OKronii.png",
+    img: "KRONII.webp",
     opts:
     {
       branch: ["EN"],
@@ -481,7 +481,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nanashi Mumei",
-    img: "NMumei.png",
+    img: "MUMEI.webp",
     opts:
     {
       branch: ["EN"],
@@ -491,7 +491,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hakos Baelz",
-    img: "HB.png",
+    img: "BAELZ.webp",
     opts:
     {
       branch: ["EN"],
@@ -501,7 +501,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tsukumo Sana",
-    img: "TSana.png",
+    img: "SANA.webp",
     opts:
     {
       branch: ["EN"],
@@ -511,7 +511,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ceres Fauna",
-    img: "CF.png",
+    img: "FAUNA.webp",
     opts:
     {
       branch: ["EN"],
@@ -521,7 +521,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "IRyS",
-    img: "I.png",
+    img: "IRYS.webp",
     opts:
     {
       branch: ["EN"],
@@ -531,7 +531,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shiori Novella",
-    img: "ShioriN.png",
+    img: "SHIORI.webp",
     opts:
     {
       branch: ["EN"],
@@ -541,7 +541,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Koseki Bijou",
-    img: "KB.png",
+    img: "BIJOU.webp",
     opts:
     {
       branch: ["EN"],
@@ -551,7 +551,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nerissa Ravencroft",
-    img: "NR.png",
+    img: "NERISSA.webp",
     opts:
     {
       branch: ["EN"],
@@ -561,7 +561,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Fuwawa Abyssgard",
-    img: "FW.png",
+    img: "FUWAWA.webp",
     opts:
     {
       branch: ["EN"],
@@ -571,7 +571,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mococo Abyssgard",
-    img: "MococoA.png",
+    img: "MOCOCO.webp",
     opts:
     {
       branch: ["EN"],
@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Elizabeth Rose Bloodflame",
-    img: "ERB.png",
+    img: "ELIZABETH.webp",
     opts:
     {
       branch: ["EN"],
@@ -591,7 +591,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gigi Murin",
-    img: "GM.png",
+    img: "GIGI.webp",
     opts:
     {
       branch: ["EN"],
@@ -601,7 +601,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cecilia Immergreen",
-    img: "CI.png",
+    img: "CECILIA.webp",
     opts:
     {
       branch: ["EN"],
@@ -611,7 +611,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Raora Panthera",
-    img: "RP.png",
+    img: "RAORA.webp",
     opts:
     {
       branch: ["EN"],
@@ -621,7 +621,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ayunda Risu",
-    img: "ARisu.png",
+    img: "RISU.webp",
     opts:
     {
       branch: ["ID"],
@@ -631,7 +631,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Moona Hoshinova",
-    img: "MH.png",
+    img: "MOONA.webp",
     opts:
     {
       branch: ["ID"],
@@ -641,7 +641,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Airani Iofifteen",
-    img: "AI.png",
+    img: "IOFEFTEEN.webp",
     opts:
     {
       branch: ["ID"],
@@ -651,7 +651,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kureiji Ollie",
-    img: "KO.png",
+    img: "OLLIE.webp",
     opts:
     {
       branch: ["ID"],
@@ -661,7 +661,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Anya Melfissa",
-    img: "AM.png",
+    img: "ANYA.webp",
     opts:
     {
       branch: ["ID"],
@@ -671,7 +671,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pavolia Reine",
-    img: "PR.png",
+    img: "REINE.webp",
     opts:
     {
       branch: ["ID"],
@@ -681,7 +681,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Vestia Zeta",
-    img: "VZ.png",
+    img: "ZETA.webp",
     opts:
     {
       branch: ["ID"],
@@ -691,7 +691,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kaela Kovalskia",
-    img: "KaelaK.png",
+    img: "KAELA.webp",
     opts:
     {
       branch: ["ID"],
@@ -701,7 +701,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kobo Kanaeru",
-    img: "KoboK.png",
+    img: "KOBO.webp",
     opts:
     {
       branch: ["ID"],
@@ -711,7 +711,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hideoshi Ao",
-    img: "HA.png",
+    img: "AO.webp",
     opts:
     {
       branch: ["DI"],
@@ -721,7 +721,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Otonose Kanade",
-    img: "OKanade.png",
+    img: "KANADE.webp",
     opts:
     {
       branch: ["DI"],
@@ -731,7 +731,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ichijou Ririka",
-    img: "IRirika.png",
+    img: "RIRIKA.webp",
     opts:
     {
       branch: ["DI"],
@@ -741,7 +741,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Juufuutei Raden",
-    img: "JR.png",
+    img: "RADEN.webp",
     opts:
     {
       branch: ["DI"],
@@ -751,7 +751,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Todoroki Hajime",
-    img: "TH.png",
+    img: "HAJIME.webp",
     opts:
     {
       branch: ["DI"],
@@ -761,7 +761,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Isaki Riona",
-    img: "IRiona.png",
+    img: "RIONA.webp",
     opts:
     {
       branch: ["DI"],
@@ -771,7 +771,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Koganei Niko",
-    img: "KN.png",
+    img: "NIKO.webp",
     opts:
     {
       branch: ["DI"],
@@ -781,7 +781,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mizumiya Su",
-    img: "MSu.png",
+    img: "SU.webp",
     opts:
     {
       branch: ["DI"],
@@ -791,7 +791,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rindo Chihaya",
-    img: "RC.png",
+    img: "CHIHAYA.webp",
     opts:
     {
       branch: ["DI"],
@@ -801,7 +801,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kikirara Vivi",
-    img: "KV.png",
+    img: "VIVI.webp",
     opts:
     {
       branch: ["DI"],
@@ -811,7 +811,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "A-Chan",
-    img: "AC.png",
+    img: "ACHAN.webp",
     opts:
     {
       branch: ["Staff"],
@@ -821,7 +821,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Harusaki Nodoka",
-    img: "HN.png",
+    img: "NODOKA.webp",
     opts:
     {
       branch: ["Staff"],
