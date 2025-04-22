@@ -81,7 +81,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hoshimachi Suisei",
-    img: "SUISEI",
+    img: "SUISEI.webp",
     opts:
     {
       branch: ["JP"],
