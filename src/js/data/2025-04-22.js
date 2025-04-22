@@ -52,7 +52,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Tokino Sora",
-    img: "TSora.png",
+    img: "Sora.webp",
     opts:{
       branch: ["JP"],
       generation: ["GJ0"],
